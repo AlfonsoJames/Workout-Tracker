@@ -1,3 +1,0 @@
-0UQ9ivfYDXUIIj0A
-
-mongodb+srv://AJGUY:<0UQ9ivfYDXUIIj0A>@cluster0.71k7g.mongodb.net/<dbname>?retryWrites=true&w=majority
